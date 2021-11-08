@@ -1,0 +1,7 @@
+SplashKit Animation
+
+f: [0-1], [0-1], 12, 0
+f: [2-6], [2-6], 5, 2
+
+i:idle,0
+i:attack,2

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Custom_Program.Arrow">
+    <Position X="5" Y="32.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.CameraWork">
+    <Position X="5.75" Y="1.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CameraWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.Character">
+    <Position X="10" Y="13.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQADCAUAggAAhAAAARAgAgBAAwAAAAIIABCIABAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.EnemyFrog">
+    <Position X="5" Y="20.25" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAgAAAAAAAEAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyFrog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.GameManager">
+    <Position X="19" Y="14.75" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAUAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.HitManager">
+    <Position X="13.75" Y="28" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAAAAAAAAAEAAAAAAAAIIAAAAAAAAGAAAAAAE=</HashCode>
+      <FileName>HitManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.InputManager">
+    <Position X="0.5" Y="15" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.InstantiateableObject">
+    <Position X="4.25" Y="26.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgQAAACAEAAAQgAQAAAIAAAAAQQAAAAIAAxgABBBAAA=</HashCode>
+      <FileName>InstantiateableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.InstantiateObjects">
+    <Position X="8.5" Y="26.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAQAAgAEAAQQAAAAEQAAAAGAAAAAAAAAAAA=</HashCode>
+      <FileName>InstantiateObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.Player">
+    <Position X="1.25" Y="20.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAQCAABAIAEQAgAABAQAAAAEAAABAAAAAAAgAABAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Custom_Program.Program">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.Tongue">
+    <Position X="0.5" Y="32.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tongue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.EnemyPlant">
+    <Position X="11" Y="20.25" Width="5.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAEAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.EnemySnail">
+    <Position X="17" Y="20.25" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>IAQCAAAAAIAAAgAABAAAAEAAAACAAAAJQAAAAAABAAA=</HashCode>
+      <FileName>EnemySnail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.Pea" Collapsed="true">
+    <Position X="9.25" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.ArrowPickup" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="20.25" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAgAAAAAAgAAAAAAAAAABAgDgIABKgAA=</HashCode>
+      <FileName>ArrowPickup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Custom_Program.CompletedState">
+    <Position X="10.25" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAADAABAgAAgAAAQAEAoIAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>CompletedState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.FailedState">
+    <Position X="16.75" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAJAAADAABAgAAgAAAQAAAoIAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>FailedState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.GameState" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAEAIAAAAAAAAAAAIAgAAA=</HashCode>
+      <FileName>GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.Gate">
+    <Position X="40" Y="15" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAgAAAABCoAAgACBAAAABAAAAIQBAAAA=</HashCode>
+      <FileName>Gate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.KeyPickup" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="20.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAgAAAgAAAAYAgAAAgAAAAAABAACgIABAgAE=</HashCode>
+      <FileName>KeyPickup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Custom_Program.StageState1">
+    <Position X="13.5" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAIAAAAApAAAAAIBgIAA=</HashCode>
+      <FileName>StageState1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.StageState2">
+    <Position X="19.75" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAIAAAAApAAAAAIBgIAA=</HashCode>
+      <FileName>StageState2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.StartState">
+    <Position X="22.75" Y="7" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAUABAIADAABAgAEgAAAQAAAoIAAAAACAAAAAAIgAAA=</HashCode>
+      <FileName>StartState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Custom_Program.StateManager">
+    <Position X="16" Y="1.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAIAAAAAAAAAAgAAAEQAAAAAAgCAA=</HashCode>
+      <FileName>StateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Custom_Program.IKeyListener">
+    <Position X="1.5" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IKeyListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Custom_Program.IPickupAble">
+    <Position X="29.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>IPickupAble.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Custom_Program.objectToInstan">
+    <Position X="11.25" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>objectToInstan.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

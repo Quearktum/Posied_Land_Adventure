@@ -1,0 +1,16 @@
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.exe
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.deps.json
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.runtimeconfig.json
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.runtimeconfig.dev.json
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.dll
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\ref\Custom_Program.dll
+E:\Uni\COS20007\Custom_Program\bin\Debug\netcoreapp5.0\Custom_Program.pdb
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.csproj.AssemblyReference.cache
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.AssemblyInfoInputs.cache
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.AssemblyInfo.cs
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.csproj.CoreCompileInputs.cache
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.dll
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\ref\Custom_Program.dll
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.pdb
+E:\Uni\COS20007\Custom_Program\obj\Debug\netcoreapp5.0\Custom_Program.genruntimeconfig.cache

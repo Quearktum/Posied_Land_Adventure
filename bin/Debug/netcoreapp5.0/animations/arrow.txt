@@ -1,0 +1,5 @@
+SplashKit Animation
+
+f: [0-2], [0-2], 8, 0
+
+i:idle,0
